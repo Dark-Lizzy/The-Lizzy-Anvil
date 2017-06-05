@@ -1,0 +1,9 @@
+{
+    "parent": "mod_lizzyanvil:block/lizzy_anvil",
+    "textures": {
+        "particle": "mod_lizzyanvil:blocks/lizzy_anvil_base",
+        "body": "mod_lizzyanvil:blocks/lizzy_anvil_base",
+        "top": "mod_lizzyanvil:blocks/lizzy_anvil_top_damaged_1",
+        "top_side": "mod_lizzyanvil:blocks/lizzy_anvil_top_side"
+    }
+}

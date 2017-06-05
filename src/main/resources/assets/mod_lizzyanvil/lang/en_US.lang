@@ -1,0 +1,11 @@
+
+tile.lizzy_anvil.name=Workshop Anvil
+tile.lizzy_anvil.intact.name=Workshop Anvil
+tile.lizzy_anvil.slightlyDamaged.name=Slightly Damaged Workshop Anvil
+tile.lizzy_anvil.veryDamaged.name=Very Damaged Workshop Anvil
+tile.anvil.name=Plain Anvil
+tile.anvil.intact.name=Plain Anvil
+tile.anvil.slightlyDamaged.name=Slightly Damaged Plain Anvil
+tile.anvil.veryDamaged.name=Very Damaged Plain Anvil
+
+container.repair.noheatsource=No Heat Source!

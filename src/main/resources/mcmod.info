@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mod_lizzyanvil",
+  "name": "The Lizzy Anvil",
+  "description": "Modified anvil behaviour. Adds the Workshop Anvil to Minecraft, which has different cost mechanics, added features, and makes the vanilla anvil just a pretty hunk of iron that you can drop on stuff.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Dark Lizzy"],
+  "credits": "",
+  "logoFile": "lizzyanvil_logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
