@@ -106,8 +106,7 @@ public class ContainerLizzyRepair extends Container
                     //causes a bug with Simple XP Storage when mana crystals are used after using the anvil.
                     //this seems to be happening because the above function doesn't actually set the xp total
                     //to the proper amount. It only sets the level.
-                    //possible fix: add one xp then remove it - that might reset the xp total to its correct amount??
-                    //Otherwise, ...I don't know.
+                    //Solution: recalculate xp total in mana crystal code.
                 }
 
                 ContainerLizzyRepair.this.inputSlots.setInventorySlotContents(0, (ItemStack)null);
